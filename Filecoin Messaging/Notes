@@ -1,0 +1,15 @@
+## Notes
+
+https://github.com/wesfloyd/pinception
+
+1. Customers want to be able to store things on IPFS;
+2. Customers want an easy way to pay for pinning on IPFS;
+3. Web3 customers prefer a decentralized IPFS, meaning the pinning infrastructure is not centralized;
+4. Web3 customers (some) would like a way to have durability guarantees of cold-archived data;
+5. Customers want to retrieve data from IPFS and have guarantees it's available;
+6. Some dapps may want to have a "private" IPFS network for their users (ENS), meaning that they will pay for storage and retrieval of data for their users.
+7. Data can be retrieved from any IPFS gateway.
+8. Future:
+    a. Data on IPFS will have ACL-policies determining access to stored data;
+
+Today we are announcing IPFS-plus powered by Filecoin: decentralized pinning.
